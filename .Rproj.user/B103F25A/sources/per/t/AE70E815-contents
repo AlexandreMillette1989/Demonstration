@@ -1,0 +1,11 @@
+Package: Demonstration
+Type: Package
+Title: Fichier de démonstration
+Version: 0.1.0
+Author: Alexandre Millette
+Maintainer: Alexandre Millette <alexandre.millette@enap.ca>
+Description: Ce package est une simple démonstration de création et d'exportation d'un package R.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
